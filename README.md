@@ -2,7 +2,7 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=fernandomireles&color=2685BF)
 
-Hi there 👋🏻,
+## Hi there 👋🏻,
 
 I am a Mexican programming enthusiast, with the spirit of sharing knowledge and collaborating on computational projects.
 
