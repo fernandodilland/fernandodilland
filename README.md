@@ -17,10 +17,3 @@ I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvu9lyZixV1Ob06Wvh0dnNw?style=social)](https://www.youtube.com/c/FernandoDilland) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCvu9lyZixV1Ob06Wvh0dnNw?style=social)](https://www.youtube.com/c/FernandoDilland)
-
-
-## Get in touch
-
-- LinkedIn: [linkedin.com/in/fernandomireles](https://www.linkedin.com/in/fernandomireles/)
-- Instagram: [instagram.com/fernandodilland](https://www.instagram.com/fernandodilland/)
-- Facebook: [facebook.com/fernandodilland](https://www.facebook.com/FernandoDilland)
