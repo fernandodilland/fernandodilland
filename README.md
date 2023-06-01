@@ -1,6 +1,6 @@
 # Hey, I'm Fernando!
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Fernando%20Dilland-brightgreen?style=social&logo=githubsponsors)](https://github.com/sponsors/fernandodilland) [![GitHub followers](https://img.shields.io/github/followers/fernandodilland?label=Follow&style=social)](https://github.com/fernandodilland)
+[![GitHub Sponsors](https://github.com/sponsors/fernandodilland) [![GitHub followers](https://img.shields.io/github/followers/fernandodilland?label=Follow&style=social)](https://github.com/fernandodilland)
 
 ### Mexican technology enthusiast, open source advocate, and knowledge disseminator.
 I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo León (Licenciado en Tecnologías de la Información). I specialize in Python and JavaScript development, and I love sharing knowledge through tutorials on my [YouTube channel](https://www.youtube.com/fernandodilland). I utilize [Cloudflare](https://github.com/cloudflare) technologies, such as Cloudflare Registrar, domain DNS management, and Cloudflare Pages. I have experience working with APIs, libraries, and CDNs, as well as handling MySQL databases. For deploying WordPress websites locally, I rely on the [Laragon](https://github.com/leokhoa/laragon) tool. I'm based in Monterrey, Mexico.
