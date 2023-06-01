@@ -1,11 +1,12 @@
 # Hey, I'm Fernando!
 
-<a href="https://github.com/sponsors/fernandodilland" title="Sponsor Fernando Dilland"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a>
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-Fernando%20Dilland-brightgreen?style=social&logo=githubsponsors)](https://github.com/sponsors/fernandodilland)
 
 ### Mexican technology enthusiast, open source advocate, and knowledge disseminator.
 I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo León (Licenciado en Tecnologías de la Información). I specialize in Python and JavaScript development, and I love sharing knowledge through tutorials on my [YouTube channel](https://www.youtube.com/fernandodilland). I utilize [Cloudflare](https://github.com/cloudflare) technologies, such as Cloudflare Registrar, domain DNS management, and Cloudflare Pages. I have experience working with APIs, libraries, and CDNs, as well as handling MySQL databases. For deploying WordPress websites locally, I rely on the [Laragon](https://github.com/leokhoa/laragon) tool. I'm based in Monterrey, Mexico.
 
-![GitHub Views](https://komarev.com/ghpvc/?username=fernandomireles&color=2685BF)
+![GitHub Views](https://komarev.com/ghpvc/?username=fernandodilland&color=2685BF) [![GitHub followers](https://img.shields.io/github/followers/fernandodilland?label=Follow&style=social)](https://github.com/fernandodilland)
+
 
 ## Recent playing:
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hiracutch&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=dfcb36)](https://github.com/kittinan/spotify-github-profile)
