@@ -10,7 +10,7 @@ I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo
 
 ## Projects (public)
 - [File to Prompt](https://filetoprompt.com/) Multi-Language Chrome/Edge Extension, code available on [GitHub](https://github.com/fernandodilland/file-to-prompt).
-- [Haz tu Código QR](https://hazqr.com/) Multi-Language Chrome/Edge Extension, code available on [GitHub](https://github.com/fernandodilland/hazqr).
+- [Haz tu Código QR](https://hazqr.com/) Website that generates QR codes, code available on [GitHub](https://github.com/fernandodilland/hazqr).
 
 ## Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
