@@ -9,8 +9,8 @@ I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hiracutch&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=dfcb36)](https://github.com/kittinan/spotify-github-profile)
 
 ## Projects (public)
-- [File to Prompt](https://filetoprompt.com/) Multi-Language Chrome/Edge Extension, code available on [GitHub](https://github.com/fernandodilland/file-to-prompt).
-- [Haz tu Código QR](https://hazqr.com/) Website that generates QR codes, code available on [GitHub](https://github.com/fernandodilland/hazqr).
+- [File to Prompt](https://filetoprompt.com/) Multi-Language Chrome/Edge Extension, available on [GitHub](https://github.com/fernandodilland/file-to-prompt).
+- [Haz tu Código QR](https://hazqr.com/) Website that generates QR codes, available on [GitHub](https://github.com/fernandodilland/hazqr).
 
 ## Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
