@@ -15,6 +15,8 @@ I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo
 ## Latest YouTube videos (spanish)
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvu9lyZixV1Ob06Wvh0dnNw?style=social)](https://www.youtube.com/c/FernandoDilland) [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCvu9lyZixV1Ob06Wvh0dnNw?style=social)](https://www.youtube.com/c/FernandoDilland)
+
 
 ## 📬 Get in touch
 
