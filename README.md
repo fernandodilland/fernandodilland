@@ -3,7 +3,7 @@
 ### Mexican technology enthusiast, open source advocate, and knowledge disseminator.
 I'm a graduate in Information Technology from the Universidad Autónoma de Nuevo León (Licenciado en Tecnologías de la Información). I specialize in Python and JavaScript development, and I love sharing knowledge through tutorials on my [YouTube channel](https://www.youtube.com/fernandodilland). I utilize [Cloudflare](https://github.com/cloudflare) technologies, such as Cloudflare Registrar, domain DNS management, and Cloudflare Pages. I have experience working with APIs, libraries, and CDNs, as well as handling MySQL databases. For deploying WordPress websites locally, I rely on the [Laragon](https://github.com/leokhoa/laragon) tool. I'm based in Monterrey, Mexico.
 
-[![GitHub followers](https://img.shields.io/github/followers/fernandodilland?label=Follow&style=social)](https://github.com/fernandodilland) [![Keybase BTC](https://img.shields.io/keybase/btc/fernandodilland?label=Bitcoin&style=social)](https://keybase.io/fernandodilland)
+[![GitHub followers](https://img.shields.io/github/followers/fernandodilland?label=Follow&style=social)](https://github.com/fernandodilland) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/fernandodilland?style=social)](https://twitter.com/fernandodilland)  [![Keybase BTC](https://img.shields.io/keybase/btc/fernandodilland?label=Bitcoin&style=social)](https://keybase.io/fernandodilland)
 
 
 ## Recent playing
